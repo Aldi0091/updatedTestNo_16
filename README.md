@@ -1,5 +1,5 @@
 # updatedTestNo_16
-Запустите виртуальное окружение
+Запустите виртуальное окружение, убедитесь, что загружены туда файлы: credentials.json, main.py, requirements.txt
 
 Установите зависимости из файла requirements.txt
 
