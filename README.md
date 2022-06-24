@@ -16,3 +16,5 @@
 Запустите main.py
 
 Ссылка на таблицу
+
+https://docs.google.com/spreadsheets/d/1i7Ceq7UKXH519wrAMYMWMT8IOus7OfvP_ijXZ-nsqQQ/edit#gid=0
